@@ -25,7 +25,7 @@
 
 ### ⚡ Fun fact:
 * J'écoute beaucoup de musiques
-* j'adore les mangas et séries 
+* j'adore les mangas et les séries 
 
 <!--
 **ladthomas/ladthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
