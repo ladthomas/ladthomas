@@ -2,7 +2,7 @@
 
 ### Qui suis-je ?
 - Je m'appelle Thomas LADOUYOU, et je suis actuellement Développeur Web .
-- 💬 Interrogez-moi sur tout ce qui concerne le développement en PHP, les bonnes pratiques et les bonnes pratiques Opquast ...
+- 💬 Interrogez-moi sur tout ce qui concerne le développement en PHP, les bonnes pratiques...
 
 ### Dernières News
 - 🌱 Site avec une  [API](https://splendid-belekoy-9b964e.netlify.app/).
