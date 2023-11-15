@@ -11,11 +11,10 @@
 ![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=mysql)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript)
-![jQuery](https://img.shields.io/badge/-jquery-230769?style=flat-square&logo=jquery)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-303030?style=flat-square&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-3E2C00?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
 <!--
 **ladthomas/ladthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
