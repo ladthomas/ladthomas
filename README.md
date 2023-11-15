@@ -5,8 +5,8 @@
 - 💬 Interrogez-moi sur tout ce qui concerne le développement en PHP, les bonnes pratiques...
 
 ### Dernières News
-- 🌱 Site avec une  [API](https://splendid-belekoy-9b964e.netlify.app/).
-- 🕹️ Calculatrice en [JS](https://calculatric.netlify.app/).
+- 🌱 Site avec une  [API](https://splendid-belekoy-9b964e.netlify.app/) .
+- 🕹️ Calculatrice en [JS](https://calculatric.netlify.app/) .
 
 
 ### ⚡ Technologies
