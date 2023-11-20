@@ -7,6 +7,7 @@
 ### Dernières News
 - 🌱 Site avec une  [API](https://splendid-belekoy-9b964e.netlify.app/) .
 - 🕹️ Calculatrice en [JS](https://calculatric.netlify.app/) .
+- 🎬 Le parrain résume du film en [HTML & CSS](https://le-parrain.netlify.app/) .
 
 
 ### ⚡ Technologies
