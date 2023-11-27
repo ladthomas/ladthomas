@@ -4,7 +4,7 @@
 - Je m'appelle Thomas LADOUYOU, et je suis actuellement Développeur Web .
 - 💬 Interrogez-moi sur tout ce qui concerne le développement en PHP, les bonnes pratiques...
 
- ![rick](https://github.com/ladthomas/ladthomas/assets/81809591/295665e5-1d6a-4fc9-a235-7175778f9c1f)
+<!-- ![rick](https://github.com/ladthomas/ladthomas/assets/81809591/295665e5-1d6a-4fc9-a235-7175778f9c1f) -->
 
 ### Dernières News
 - 🌱 Site avec une  [API](https://splendid-belekoy-9b964e.netlify.app/) .
