@@ -27,7 +27,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-303030?style=flat-square&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-3E2C00?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![MongoDB](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg?color=green)
+![MongoDB](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)
 
 
 
