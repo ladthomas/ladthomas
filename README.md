@@ -27,7 +27,6 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-303030?style=flat-square&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-3E2C00?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Node.js](https://img.shields.io/endpoint?url=https://simpleicons.org/icons/node-dot-js.json?color=green)
 
 
 
