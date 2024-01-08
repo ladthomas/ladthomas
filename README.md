@@ -33,7 +33,7 @@
 
 
 ### ⚡ Fun fact:
-* J'écoute beaucoup de musiques
+* J'écoute beaucoup de musiques 
 * j'adore les mangas et les séries 
 
 <!--
