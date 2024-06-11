@@ -15,6 +15,7 @@
 - 👨‍🍳 Recette de cuisine en [Vue](https://recettes-de-cuis.netlify.app/) .
 - 😎 Portfolio en [next & tailwind](https://meek-moonbeam-d2cb3d.netlify.app/) .
 - 🦠 App contacts en [Vue](https://contactsappionic.netlify.app/) .
+- 🥶 App notes en [Vue](https://note-app-vue.netlify.app/) .
 
 
 
